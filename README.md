@@ -1,5 +1,5 @@
 
-# [Project Planner](https://pierremarien.github.io/project-planner/) (Group)
+# [Project Planner](https://elibbth.github.io/project-planner/) (Group)
 
 - Créer un outil pour gérer nos projets 
 
